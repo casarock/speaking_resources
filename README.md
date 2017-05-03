@@ -24,4 +24,4 @@
 * [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
 ## Books
-* (Propose, Prepare, Present)[http://shop.oreilly.com/product/0636920027096.do] - How to become a successful, effective, and popular speaker at industry conferences (Free ebook)
+* [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - How to become a successful, effective, and popular speaker at industry conferences (Free ebook)
