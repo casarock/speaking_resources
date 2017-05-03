@@ -18,6 +18,7 @@
 * [Pexels](https://www.pexels.com) - Royalty free stock images  
 * [Unsplash](https://unsplash.com/) - Free (do whatever you want) high-resolution photos.  
 * [Pixabay](https://pixabay.com/) - Free images and videos you can use anywhere  
+* [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#cc0-license) - Very big list of great resources (Direct link to cc0 resources)
 
 ## Crafting proposals and talks
 * [My process of writing a talk](https://medium.com/@skamille/my-process-writing-a-talk-de55a870f2e7#.mynj3bc92)
