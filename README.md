@@ -1,5 +1,11 @@
 # My collection of useful resources for speakers
 
+**TOC**
+* [General](#general)
+* [Story Telling](#story-telling)
+* [Royalty free images](#royalty-free-images)
+* [Crafting proposals and talks](#crafting-proposals-and-talks)
+* [Books](#books)
 
 ## General
 * [How to be a confident speaker](http://blog.sqisland.com/2012/06/how-to-be-confident-speaker.html)
