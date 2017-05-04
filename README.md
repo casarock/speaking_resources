@@ -8,6 +8,7 @@
 * [How to give a great ignite talk](http://scottberkun.com/2009/how-to-give-a-great-ignite-talk/)
 * [10 Ways Great Speakers Capture People's Attention](http://www.inc.com/sims-wyeth/how-to-capture-and-hold-audience-attention.html)
 * [Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation/)
+* [Supercharging public speaking](https://www.slideshare.net/cheilmann/supercharging-public-speaking) - Workshop Slide created by Chris Heilmann.
 
 ## Story telling
 * [6 Rules For Great Storytelling, From A Moth-Approved Master Of The Form](http://www.fastcompany.com/3052152/how-i-get-it-done/6-rules-for-great-storytelling-from-a-moth-approved-master-of-the-form)
@@ -26,3 +27,5 @@
 
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - How to become a successful, effective, and popular speaker at industry conferences (Free ebook)
+
+
