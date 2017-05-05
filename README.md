@@ -6,6 +6,7 @@
 * [Royalty free images](#royalty-free-images)
 * [Crafting proposals and talks](#crafting-proposals-and-talks)
 * [Books](#books)
+* [Newsletters](#newsletters)
 
 -----
 
@@ -35,5 +36,9 @@
 
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - How to become a successful, effective, and popular speaker at industry conferences (Free ebook)
+
+## Newsletters
+* [Technically Speaking](http://tinyletter.com/techspeak) - Technically Speaking by Chiu-Ki and Cate
+* [PaperCall.io](https://www.papercall.io/) - The easy way to manage your call for papers. They have a weekly Newsletter, too
 
 
