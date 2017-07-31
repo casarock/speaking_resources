@@ -35,6 +35,7 @@
 ## Crafting proposals and talks
 * [My process of writing a talk](https://medium.com/@skamille/my-process-writing-a-talk-de55a870f2e7#.mynj3bc92)
 * [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+* [The Art of Slide Design](https://speakerdeck.com/mseckington/the-art-of-slide-design) by Melinda Seckington
 
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - How to become a successful, effective, and popular speaker at industry conferences (Free ebook)
